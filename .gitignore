@@ -22,3 +22,6 @@ datasets/
 logs/
 *.csv
 *.json
+
+# pytorch
+*.pth
