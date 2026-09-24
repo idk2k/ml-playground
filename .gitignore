@@ -25,3 +25,4 @@ logs/
 
 # pytorch
 *.pth
+experiments/llm_from_scratch/ch05/gpt2
