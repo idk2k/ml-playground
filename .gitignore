@@ -26,3 +26,5 @@ logs/
 # pytorch
 *.pth
 experiments/llm_from_scratch/ch05/gpt2
+experiments/llm_from_scratch/ch06/sms_spam_collection
+*.zip
